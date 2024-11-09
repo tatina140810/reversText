@@ -1,0 +1,13 @@
+disabled_rules:
+  - line_length
+  - trailing_whitespace
+included:
+  - MyProject
+excluded:
+  - Pods
+  - MyProject/External
+opt_in_rules:
+  - empty_count
+  - explicit_init
+
+
